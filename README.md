@@ -1,2 +1,2 @@
-# -Сourse_orchestrator
+# Сourse_orchestrator
 Оркестратор курсов
